@@ -1,6 +1,6 @@
 # React JS with TypeScript Crash Course
 
-This repository contains code examples and notes from the Udemy course, ["React JS with TypeScript Crash Course"](https://www.udemy.com/course/react-js-with-typescript-crash-course-2022/learn/lecture/30750750#overview).
+This repository contains code examples and notes from the Udemy course, ["React JS with TypeScript Crash Course"](https://www.udemy.com/course/react-js-with-typescript-crash-course-2022).
 
 ## Overview
 
